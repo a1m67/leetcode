@@ -1,4 +1,4 @@
-package y2025_lc_h100;
+package y2025_lc_h100.hash;
 
 import java.util.Arrays;
 import java.util.HashMap;
